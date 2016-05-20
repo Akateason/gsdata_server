@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gsdata_server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gsdata_server_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gsdata_server" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="gsdata_server/web/Web" />
+    </root>
+  </artifact>
+</component>
